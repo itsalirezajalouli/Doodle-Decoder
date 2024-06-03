@@ -6,7 +6,7 @@ import tensorflow as tf
 
 #   Load MNIST handwriting dataset
 
-mnist = tf.keras.datasets.mnist
+#mnist = tf.keras.datasets.mnist
 
 path = 'mnist.npz'
 
